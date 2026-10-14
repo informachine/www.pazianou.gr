@@ -1,0 +1,5 @@
+{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "pazianou.gr",
+  "Id": "cc97534e-155f-4cb6-b63c-10aaee9f8dbb"
+}
